@@ -106,12 +106,12 @@ void exibirCampo(char campo[TAM][TAM])
 
     printf("   ");
     for (c = 0; c < TAM; c++)
-        printf("───");
+        printf("---");
     printf("\n");
 
     for (linha = 0; linha < TAM; linha++) 
     {
-        printf(" %2d│", linha + 1);
+        printf(" %2d|", linha + 1);
         for (coluna = 0; coluna < TAM; coluna++) 
             printf(" %c ", campo[linha][coluna]);
         printf("\n");
