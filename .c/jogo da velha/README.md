@@ -4,7 +4,7 @@ Uma versão simples de Jogo da Velha feita em C para rodar no terminal. Dois jog
 
 ## 🎮 Demonstração
 
-📷 *()*
+📷 ![Demo](https://s14.gifyu.com/images/bso2x.gif)
 
 ## 🚀 Como usar
 
