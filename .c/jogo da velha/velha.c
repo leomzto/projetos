@@ -29,6 +29,7 @@ int main(void)
             linha_escolhida -= 1;
             coluna_escolhida -= 1;
 
+
             if(linha_escolhida >= 0 && linha_escolhida < 3 && coluna_escolhida >= 0 && coluna_escolhida < 3 && tabuleiro[linha_escolhida][coluna_escolhida] == ' ')
             {
                 tabuleiro[linha_escolhida][coluna_escolhida] = jogador_atual;
@@ -38,6 +39,7 @@ int main(void)
             {
                 printf("\nJogada Inválida.\nTente novamente.\n");
             }
+            printf("\033[2J\033[H");
         }
 
         if(vitoria(tabuleiro, jogador_atual))
