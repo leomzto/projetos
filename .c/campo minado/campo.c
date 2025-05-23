@@ -39,6 +39,8 @@ int main(void)
         linha_escolhida -= 1;
         coluna_escolhida -= 1;
 
+        printf("\033[2J\033[H");
+
         if (linha_escolhida < 0 || linha_escolhida >= TAM || coluna_escolhida < 0 || coluna_escolhida >= TAM) 
         {
             printf("Posição inválida. Tente novamente.\n");
