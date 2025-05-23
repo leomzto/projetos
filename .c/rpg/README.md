@@ -1,4 +1,4 @@
-# RDPQuest ⚔️
+# Rogue De Prompt -RDPQuest ⚔️
 
 Um RPG de terminal feito em C. Crie seu personagem, enfrente inimigos e avance por masmorras!
 
