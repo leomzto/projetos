@@ -8,7 +8,7 @@ Um RPG de terminal feito em C. Crie seu personagem, enfrente inimigos e avance p
 
 ## 🚀 Como usar
 
-Faça o download clicando [aqui](https://github.com/leomzto/RDPQuest/releases/download/v0.2/RDPQuest_Installer.exe)
+Faça o download clicando [aqui](https://github.com/leomzto/projetos/releases/tag/rpg_RDPQuest)
 
 ## 🧠 Sobre o jogo
 
