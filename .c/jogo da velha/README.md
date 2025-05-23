@@ -8,7 +8,7 @@ Uma versão simples de Jogo da Velha feita em C para rodar no terminal. Dois jog
 
 ## 🚀 Como usar
 
-Faça o download clicando [aqui]()
+Faça o download clicando [aqui](https://github.com/leomzto/projetos/releases/download/jogo_da_velha/Jogo.Da.Velha.exe)
 
 ## 🧠 Regras do jogo
 
