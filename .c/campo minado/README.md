@@ -4,7 +4,7 @@ Uma versão simples de Campo Minado feita em C para terminal. O objetivo é abri
 
 ## 🎮 Demonstração
 
-📷 *(Adicione aqui um print ou GIF do jogo rodando no terminal)*
+📷 *()*
 
 ## 🚀 Como usar
 

@@ -4,7 +4,7 @@ Um RPG de terminal feito em C. Crie seu personagem, enfrente inimigos e avance p
 
 ## 🎮 Demonstração
 
-📷 *(Adicione aqui um print ou GIF do jogo rodando no terminal)*
+📷 *()*
 
 ## 🚀 Como usar
 

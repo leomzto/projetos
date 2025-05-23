@@ -4,7 +4,7 @@ Uma versão simples de Jogo da Velha feita em C para rodar no terminal. Dois jog
 
 ## 🎮 Demonstração
 
-📷 *(Adicione aqui um print ou GIF do jogo rodando no terminal)*
+📷 *()*
 
 ## 🚀 Como usar
 
