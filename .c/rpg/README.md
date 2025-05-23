@@ -4,7 +4,7 @@ Um RPG de terminal feito em C. Crie seu personagem, enfrente inimigos e avance p
 
 ## 🎮 Demonstração
 
-📷 *()*
+📷 ![Demo](https://s14.gifyu.com/images/bso2d.gif)
 
 ## 🚀 Como usar
 
