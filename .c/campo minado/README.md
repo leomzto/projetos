@@ -8,7 +8,7 @@ Uma versão simples de Campo Minado feita em C para terminal. O objetivo é abri
 
 ## 🚀 Como usar
 
-Faça o download clicando [aqui]()
+Faça o download clicando [aqui](https://github.com/leomzto/projetos/releases/download/campo_minado/Campo.Minado.exe)
 
 ## 🧠 Regras do jogo
 
