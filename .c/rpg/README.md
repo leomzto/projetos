@@ -29,7 +29,7 @@ Faça o download clicando [aqui](https://github.com/leomzto/projetos/releases/ta
 ## 🛠 Tecnologias usadas
 
 - Linguagem C
-- Terminal (Linux ou Windows via terminal compatível)
+- Terminal (Windows via terminal compatível)
 
 ## 👨‍💻 Autor
 
