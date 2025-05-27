@@ -132,6 +132,7 @@ void listarContatos(void)
     fclose(contatos);
 }
 
+// funcao com defeito
 void buscarContato(void)
 {
     system("clear || cls");
@@ -142,7 +143,6 @@ void buscarContato(void)
         printf("Erro.\n");
         return;
     }
-
     char busca[100];
     printf("Pesquisar: ");
     fgets(busca, sizeof(busca), stdin);
