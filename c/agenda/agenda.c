@@ -21,6 +21,7 @@ int menu(void);
 void addContato(void);
 void listarContatos(void);
 void buscarContato(void);
+//... editar contato(...);
 
 int main(void)
 {
@@ -40,9 +41,6 @@ int main(void)
             case 2:
                 listarContatos();
                 break;
-            case 3:
-                // editarContato();
-                // break;
             default:
                 break;
         }
@@ -93,7 +91,6 @@ void addContato(void)
 
 	fclose(contatos);
 }
-
 
 void listarContatos(void)
 {
