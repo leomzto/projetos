@@ -1,0 +1,197 @@
+[33mcommit dfa7b7ad162c69723d61f6448ad622bc8ccf9316[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Manzato <leopmanzato@gmail.com>
+Date:   Sun May 25 17:58:31 2025 -0300
+
+    projetos em c
+
+[33mcommit 4aec8e18e4169de16f52338067b8b62d6814edb4[m
+Author: Manzato <leopmanzato@gmail.com>
+Date:   Sun May 25 17:55:28 2025 -0300
+
+    teste
+
+[33mcommit f2ae5ac4a694103984759b17f1c865efdee20fbd[m
+Author: Leonardo Manzato <leopmanzato@gmail.com>
+Date:   Sun May 25 00:53:13 2025 -0300
+
+    Update README.md
+
+[33mcommit a4beda8a0dea3159c2e2a8ab8ad57ebfbe21cfee[m
+Author: Leonardo Manzato <leopmanzato@gmail.com>
+Date:   Fri May 23 19:22:25 2025 -0300
+
+    Update README.md
+
+[33mcommit 0746ec3ced4026e3639ceb39a1c31599c84cf987[m
+Author: Leonardo Manzato <leopmanzato@gmail.com>
+Date:   Fri May 23 19:22:16 2025 -0300
+
+    Update README.md
+
+[33mcommit 3b053e99c4913192fcca81489286e9716af6e6a1[m
+Author: Leonardo Manzato <leopmanzato@gmail.com>
+Date:   Fri May 23 19:20:17 2025 -0300
+
+    Update README.md
+
+[33mcommit 6f36cfd9c30052e41703c145723269f200c83ddb[m
+Author: Leonardo Manzato <leopmanzato@gmail.com>
+Date:   Fri May 23 19:19:50 2025 -0300
+
+    Update README.md
+
+[33mcommit e4742a21c1f1a0d919521848fcf0c932e00e0107[m
+Author: Leonardo Manzato <leopmanzato@gmail.com>
+Date:   Fri May 23 19:19:34 2025 -0300
+
+    Update README.md
+
+[33mcommit 5362b34a49ba1326a464e6faa7bcb15f0d6c2be2[m
+Author: Leonardo Manzato <leopmanzato@gmail.com>
+Date:   Fri May 23 19:18:54 2025 -0300
+
+    Update README.md
+
+[33mcommit 4b46ae35f5b22402985fe26db8b03f03aaad0ac5[m
+Author: Leonardo Manzato <leopmanzato@gmail.com>
+Date:   Fri May 23 19:18:43 2025 -0300
+
+    Update README.md
+
+[33mcommit 56b8c2ed4e063e38a6304baaeb544e3ae4fc11d8[m
+Author: Manzato <leopmanzato@gmail.com>
+Date:   Fri May 23 03:32:12 2025 -0300
+
+    Campo Minado
+
+[33mcommit f1a900f1b45870139c2da7be602452e6d32835b5[m
+Author: Manzato <leopmanzato@gmail.com>
+Date:   Fri May 23 03:23:31 2025 -0300
+
+    ...
+
+[33mcommit 69f875c52d60e94b1f9244ac4b0204ef68068d53[m
+Author: Leonardo Manzato <leopmanzato@gmail.com>
+Date:   Fri May 23 03:17:25 2025 -0300
+
+    Update README.md
+
+[33mcommit f095a475d8a513293dd77722cc8f361e133c50d8[m
+Author: Leonardo Manzato <leopmanzato@gmail.com>
+Date:   Fri May 23 03:16:16 2025 -0300
+
+    Update README.md
+
+[33mcommit 868955509d1f67d6362b89ffb3bc1f6fae23450f[m
+Author: Leonardo Manzato <leopmanzato@gmail.com>
+Date:   Fri May 23 03:15:23 2025 -0300
+
+    Update README.md
+
+[33mcommit aad69af00a94e9b7163d21a08f6af9414f5d583f[m
+Author: Manzato <leopmanzato@gmail.com>
+Date:   Fri May 23 02:38:40 2025 -0300
+
+    README.md >> rpg RDPQuest
+
+[33mcommit 60f1fccb3374b505487ff970b959f0bc8f5b36b9[m[33m ([m[1;33mtag: [m[1;33mrpg_RDPQuest[m[33m)[m
+Author: Manzato <leopmanzato@gmail.com>
+Date:   Fri May 23 02:33:53 2025 -0300
+
+    README.md >> campo minado
+
+[33mcommit e5d3f10d040fbd99f614e0e94b42d5484e654d8f[m[33m ([m[1;33mtag: [m[1;33mcampo_minado[m[33m)[m
+Author: Manzato <leopmanzato@gmail.com>
+Date:   Fri May 23 02:32:26 2025 -0300
+
+    README.md >> jogo da velha
+
+[33mcommit 0fa0b2464efc23a7d2addc6ed1245a7d79cec3b0[m
+Author: Manzato <leopmanzato@gmail.com>
+Date:   Fri May 23 02:31:06 2025 -0300
+
+    Campo Minado Atualizado
+
+[33mcommit 8f135c132feec5a9ec4e7dfe2ce3a1f0002c4382[m[33m ([m[1;33mtag: [m[1;33mjogo_da_velha[m[33m)[m
+Author: Manzato <leopmanzato@gmail.com>
+Date:   Fri May 23 02:15:13 2025 -0300
+
+    Jogo da Velha Atualizado
+
+[33mcommit 1f120b3098ca8acfe59fde26d5e7988fcd9a9dbe[m
+Author: Manzato <leopmanzato@gmail.com>
+Date:   Fri May 23 02:12:09 2025 -0300
+
+    Campo Minado Atualizado
+
+[33mcommit 261f9388ca9198ac94bb5124a555b588eeb26dd3[m
+Author: Manzato <leopmanzato@gmail.com>
+Date:   Fri May 23 02:08:37 2025 -0300
+
+    README.md >> Projetos
+
+[33mcommit 957d9d8240a0dfa658707af48aae59dade57c6bb[m
+Author: Manzato <leopmanzato@gmail.com>
+Date:   Fri May 23 02:07:18 2025 -0300
+
+    readme.md dos projetos
+
+[33mcommit 0c96a31044d84ce27e32e8b38e736f0207065650[m
+Author: Manzato <leopmanzato@gmail.com>
+Date:   Fri May 23 00:55:13 2025 -0300
+
+    rpg
+
+[33mcommit 1a0fff8f8e8e94fbc6893c586f296d8d81e582fe[m
+Author: Manzato <leopmanzato@gmail.com>
+Date:   Fri May 23 00:53:22 2025 -0300
+
+    git ignore
+
+[33mcommit 30c48cda3504c52a2d9f8fe24a6240c0d24054f0[m
+Author: Manzato <leopmanzato@gmail.com>
+Date:   Fri May 23 00:52:24 2025 -0300
+
+    projetos
+
+[33mcommit 87e12e4f3a5ac46e1f68d2c96528a91889c3ddc5[m
+Author: Leonardo Manzato <leopmanzato@gmail.com>
+Date:   Fri May 23 00:45:17 2025 -0300
+
+    Create README.md
+
+[33mcommit 1d49a438cbeb2b4b155749707d537464363ba73f[m
+Author: Manzato <leopmanzato@gmail.com>
+Date:   Wed May 21 21:24:51 2025 -0300
+
+    melhora no codigo do rpg
+
+[33mcommit 0be6115abb697cc216dc92e7e91998c80e202b73[m
+Author: Manzato <leopmanzato@gmail.com>
+Date:   Wed May 21 15:47:15 2025 -0300
+
+    rpg atualizado (corrigido masmorras)
+
+[33mcommit f8949b4eb07cb16e6211886fbbcad34300f3b795[m
+Author: Manzato <leopmanzato@gmail.com>
+Date:   Tue May 20 20:06:10 2025 -0300
+
+    Projetos adicionados
+
+[33mcommit 55785d7801fa51d2a4c26262e19a99b9834d5cfc[m
+Author: Manzato <leopmanzato@gmail.com>
+Date:   Tue May 20 20:03:44 2025 -0300
+
+    teste de commit
+
+[33mcommit b5e81331e0f4631f5fdbbe6552a0bb94433f1b6c[m
+Author: Manzato <leopmanzato@gmail.com>
+Date:   Tue May 20 19:58:46 2025 -0300
+
+    adionado projetos
+
+[33mcommit 4427369ae1662cbfa3d1762e9998ec0590a18b39[m
+Author: Manzato <leopmanzato@gmail.com>
+Date:   Tue May 20 19:53:35 2025 -0300
+
+    teste
