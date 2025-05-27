@@ -34,3 +34,22 @@ Faça o download clicando [aqui](https://github.com/leomzto/projetos/releases/ta
 ## 👨‍💻 Autor
 
 Feito com ⚔️ por [Leo Manzato](https://github.com/leomzto)
+
+--------------------------------------
+
+Instalação
+
+1. Baixe o instalador na pagina de Releases do GitHub:
+   https://github.com/leomzto/rdpquest/releases
+2. Execute o instalador e siga as instrucoes.
+3. O jogo sera instalado em "C:\Program Files (x86)\RDPQuest".
+4. Um atalho sera criado na sua area de trabalho.
+
+--------------------------------------
+
+Requisitos
+
+- Windows 7+
+- Prompt de Comando
+
+--------------------------------------
