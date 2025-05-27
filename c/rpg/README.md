@@ -24,7 +24,7 @@ Faça o download clicando [aqui](https://github.com/leomzto/projetos/releases/ta
 - [x] Barra de vida
 - [x] Progressão de personagem
 - [x] Sistema de masmorra por andares
-- [x] Sistema de salvamento (pasta `../saves/`)
+- [x] Sistema de salvamento
 
 ## 🛠 Tecnologias usadas
 
