@@ -5,6 +5,7 @@ Este repositório reúne todos os meus projetos pessoais e acadêmicos, organiza
 ## Estrutura
 
 - `c` — [Projetos desenvolvidos em linguagem C](https://github.com/leomzto/projetos/tree/main/c)
+- `py` — [Projetos desenvolvidos em linguagem Python](https://github.com/leomzto/projetos/tree/main/py)
 - `...` — Outras linguagens e categorias conforme forem adicionadas
 
 Aqui você encontrará desde jogos simples até programas mais complexos, além de projetos em andamento.
