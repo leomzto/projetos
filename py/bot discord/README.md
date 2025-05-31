@@ -1,9 +1,20 @@
-# 🤖 Bot Discord em Python
+# 🤖 Bot do Discord
 
-Este é um bot para Discord feito em Python usando a biblioteca `discord.py`.
+Um bot simples para Discord, criado com a biblioteca `discord.py`, que oferece funcionalidades como mensagem de boas-vindas, comandos de moderação (clear, kick, ban, mute e unmute), e sistema de permissões.
 
-## ✨ Funcionalidades
+## ⚙️ Funcionalidades
 
-- 👋 Boas-vindas com mensagem
-- 🛠️ Comandos de moderação: kick, ban, mute, unmute
-- 🧹 Comando para limpar mensagens (clear)
+- 🎉 Mensagem de boas-vindas automática com embed
+- 🧹 `!clear <quantidade>` – Limpa mensagens do canal
+- 🦵 `!kick @membro [motivo]` – Expulsa um membro
+- 🔨 `!ban @membro [motivo]` – Bane um membro
+- 🔇 `!mute @membro` – Silencia um membro
+- 🔊 `!unmute @membro` – Remove o silêncio de um membro
+
+## 🔐 Permissões Necessárias
+
+Cada comando exige o bot ter permissões específicas:
+- `!clear`, `!mute`, `!unmute` → `Gerenciar mensagens`
+- `!kick` → `Expulsar membros`
+- `!ban` → `Banir membros`
+--------

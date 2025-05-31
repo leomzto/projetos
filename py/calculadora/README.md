@@ -1,10 +1,10 @@
-# 🧮 Calculadora em Python
+# 🧮 Calculadora Completa
 
-Este projeto é uma calculadora de terminal em Python com várias funcionalidades matemáticas, incluindo operações básicas, fatoriais, raiz quadrada e outras operações extras como verificar se um número é primo, calcular MDC, MMC, média e conversão de bases.
+Este é um projeto de calculadora interativa feita em Python com múltiplas funcionalidades, desde operações básicas até cálculo de MMC, MDC, primos e conversão de bases numéricas.
 
-## 🚀 Funcionalidades
+## 📋 Funcionalidades
 
-### Operações principais:
+### 📌 Operações principais:
 - Soma
 - Subtração
 - Multiplicação
@@ -13,10 +13,11 @@ Este projeto é uma calculadora de terminal em Python com várias funcionalidade
 - Fatorial
 - Raiz Quadrada
 
-### Outras operações:
-- Verificação de Par ou Ímpar
-- Verificação de número Primo
+### 🧠 Outras operações:
+- Verificador de número Par/Ímpar
+- Verificador de números Primos
 - Cálculo de MDC (Máximo Divisor Comum)
 - Cálculo de MMC (Mínimo Múltiplo Comum)
 - Média Aritmética
-- Conversor de Base (Binário, Octal, Hexadecimal)
+- Conversão de bases (Binário, Octal, Hexadecimal)
+------------
