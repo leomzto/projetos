@@ -64,4 +64,4 @@ async def unmute(ctx, member: commands.MemberConverter):
     else:
         await ctx.send(f'{member} não está mutado.')
 
-bot.run('TOKEN') #token escondido por segurança
+bot.run('token')

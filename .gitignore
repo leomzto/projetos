@@ -1,6 +1,13 @@
-.devcontainer
+# ignore de config
+/.vscode
+/.devcontainer
+
+# ignore venv / compiladores
 Makefile
 venv/
 
+# ignore de PY -> bot discord
 py/bot discord/token.txt
-py/bot discord/bot_original.py
+
+# ignore de PY -> conversor de moedas
+py/conversor de moedas/api_key.txt

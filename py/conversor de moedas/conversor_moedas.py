@@ -1,7 +1,7 @@
 import requests
 
-API_KEY = "930c1350d59f39a9049b9f8f"
-base_url = "https://v6.exchangerate-api.com/v6/930c1350d59f39a9049b9f8f/latest/"
+API_KEY = "api_key"
+base_url = f"https://v6.exchangerate-api.com/v6/{API_KEY}/latest/"
 
 def converter(de, para, valor):
     url = base_url + de
