@@ -32,6 +32,3 @@ moeda_desejada = input("| Para: ").upper()
 valor_convertido = converter(moeda_atual, moeda_desejada, valor_desejado)
 if valor_convertido:
     print(f'>>> 100 USD equivale a {valor_convertido:.2f} BRL')
-
-
-
