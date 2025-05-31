@@ -1,6 +1,6 @@
 .devcontainer
 Makefile
+venv/
 
-py/bot discord/venv/
 py/bot discord/token.txt
 py/bot discord/bot_original.py
