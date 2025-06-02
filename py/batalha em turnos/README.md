@@ -1,4 +1,4 @@
-# 🗡️ Jogo de Batalha em Turnos - Python
+# 🗡️ Jogo de Batalha em Turnos
 
 Um simples jogo debatalha em turnos feito em Python, utilizando os conceitos de Programação Orientada a Objetos (POO), como herança, encapsulamento e polimorfismo.
 
