@@ -1,12 +1,12 @@
 # 🚀 Python PowerUp - Jornada de Automação com Python
 
-Meu repositório da **Jornada Python PowerUp**, uma iniciativa da ***Hashtag Treinamentos*** voltada para quem deseja aprender **automação com Python** de forma prática, rápida e eficaz.
+**Jornada Python PowerUp**, uma iniciativa da ***Hashtag Treinamentos*** voltada para quem deseja aprender **automação com Python** de forma prática, rápida e eficaz.
 
 ## 🎯 Objetivo da Jornada
 
 A Jornada Python PowerUp tem como objetivo ensinar, em apenas 4 aulas, como utilizar **Python** para automatizar tarefas do dia a dia — desde ações no navegador até automação com arquivos e dados.
 
-Sendo, voltado tanto para iniciantes quanto para quem já tem algum conhecimento em programação e quer aprofundar-se em automações reais com Python.
+Sendo voltado tanto para iniciantes quanto para quem já tem algum conhecimento em programação e quer aprofundar-se em automações reais com Python.
 
 ---
 
