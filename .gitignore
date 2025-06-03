@@ -7,7 +7,7 @@ Makefile
 venv/
 
 # ignore de PY -> bot discord
-py/bot discord/token.txt
+token.txt
 
 # ignore de PY -> conversor de moedas
-py/conversor de moedas/api_key.txt
+api_key.txt

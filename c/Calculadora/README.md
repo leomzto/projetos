@@ -1,4 +1,4 @@
-# 🧮 Calculadora em C
+# 🧮 Calculadora
 
 Programa de calculadora simples que realiza operações matemáticas básicas e outras operações avançadas no terminal.
 

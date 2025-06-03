@@ -1,4 +1,4 @@
-# 🧮 Calculadora Completa
+# 🧮 Calculadora
 
 Este é um projeto de calculadora interativa feita em Python com múltiplas funcionalidades, desde operações básicas até cálculo de MMC, MDC, primos e conversão de bases numéricas.
 

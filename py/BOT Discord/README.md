@@ -1,4 +1,4 @@
-# 🤖 Bot do Discord
+# 🤖 BOT do Discord
 
 Um bot simples para Discord, criado com a biblioteca `discord.py`, que oferece funcionalidades como mensagem de boas-vindas, comandos de moderação (clear, kick, ban, mute e unmute), e sistema de permissões.
 

@@ -1,4 +1,4 @@
-# 📞 Agenda Telefônica em C
+# 📞 Agenda Telefônica
 
 Um projeto simples de **agenda de contatos em terminal** feito em linguagem C, com armazenamento local em um arquivo `.csv`.
 
