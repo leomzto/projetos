@@ -8,7 +8,7 @@
 import streamlit as st
 from openai import OpenAI
 
-client = OpenAI(api_key='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')
+client = OpenAI(api_key='')
 
 st.write('# ChatRanho')
 
