@@ -1,5 +1,5 @@
 # Titulo
-# Input do char
+# Input do chat
 # A cada mensagem eviada:
     # Mostrar a mensagem que foi enviada pelo usuario
     # Enviar a mensagem para a IA
@@ -10,7 +10,7 @@ from openai import OpenAI
 
 client = OpenAI(api_key='')
 
-st.write('# ChatRanho')
+st.write('# Chat Manzato')
 
 if "chat_history" not in st.session_state:
     st.session_state.chat_history = []

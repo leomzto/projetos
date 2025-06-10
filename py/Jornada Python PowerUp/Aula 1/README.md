@@ -1,6 +1,6 @@
 # 🐍 Python PowerUp - Automação com PyAutoGUI
 
-Projetos desenvolvidos durante a primeira aula da **Jornada Python PowerUp** da Hashtag Treinamentos. Os scripts automatizam tarefas no navegador utilizando a biblioteca `pyautogui`.
+Projetos desenvolvidos durante a primeira aula da **Jornada Python** da Hashtag Treinamentos. Os scripts automatizam tarefas no navegador utilizando a biblioteca `pyautogui`.
 
 ## 📚 Projeto da Aula 1 — Automação de Cadastro de Produtos
 

@@ -1,6 +1,6 @@
-# 🐍 Python PowerUp - Análise de Cancelamento de Clientes
+# 🐍 Python Insights - Análise de Cancelamento de Clientes
 
-Projeto desenvolvido durante a **Jornada Python PowerUp** da Hashtag Treinamentos. O objetivo é analisar dados de clientes para entender os motivos de cancelamento dos serviços e propor ações que possam reduzir essa taxa.
+Projeto desenvolvido durante a **Jornada Python** da Hashtag Treinamentos. O objetivo é analisar dados de clientes para entender os motivos de cancelamento dos serviços e propor ações que possam reduzir essa taxa.
 
 ## 📊 Contexto do Projeto
 
